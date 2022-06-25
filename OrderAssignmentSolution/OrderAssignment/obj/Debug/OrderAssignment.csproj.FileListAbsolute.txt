@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\C#taining\OrderAssignmentSolution\OrderAssignment\bin\Debug\OrderAssignment.exe.config
+C:\Users\hp\source\repos\C#taining\OrderAssignmentSolution\OrderAssignment\bin\Debug\OrderAssignment.exe
+C:\Users\hp\source\repos\C#taining\OrderAssignmentSolution\OrderAssignment\bin\Debug\OrderAssignment.pdb
+C:\Users\hp\source\repos\C#taining\OrderAssignmentSolution\OrderAssignment\obj\Debug\OrderAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\C#taining\OrderAssignmentSolution\OrderAssignment\obj\Debug\OrderAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C#taining\OrderAssignmentSolution\OrderAssignment\obj\Debug\OrderAssignment.exe
+C:\Users\hp\source\repos\C#taining\OrderAssignmentSolution\OrderAssignment\obj\Debug\OrderAssignment.pdb
